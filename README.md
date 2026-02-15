@@ -1,6 +1,18 @@
 # Community Hub & Issue Tracker
 
 Welcome! This repository is the central place for reporting bugs, requesting features, and contributing community translations for the mod. Please read through the guidelines below before opening an issue — it helps us respond faster and keeps things organized for everyone.
+## Mods
+
+### Drop Highlighter - Highlights item entities so you don't lose them
+
+Modrinth: [https://modrinth.com/mod/drop-highlighter]
+CurseForage: Pending.
+
+### Build Better - Build Preview and Advanced Building like drag and place, and randomization
+* In Development
+ 
+### Advanced Logistics - Items to help make farms run smoothly, fast hopper alternatives, sorting, and automated destruction
+* In Development
 
 ---
 
