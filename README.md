@@ -6,10 +6,12 @@ Welcome! This repository is the central place for reporting bugs, requesting fea
 ### Drop Highlighter - Highlights item entities so you don't lose them
 
 Modrinth: [https://modrinth.com/mod/drop-highlighter]
-CurseForage: Pending.
+CurseForage: [https://www.curseforge.com/minecraft/mc-mods/drop-highlighter]
 
 ### Build Better - Build Preview and Advanced Building like drag and place, and randomization
-* In Development
+
+Modrinth: [https://modrinth.com/mod/build-better]
+Curseforge: [https://www.curseforge.com/minecraft/mc-mods/build-better]
  
 ### Advanced Logistics - Items to help make farms run smoothly, fast hopper alternatives, sorting, and automated destruction
 * In Development
