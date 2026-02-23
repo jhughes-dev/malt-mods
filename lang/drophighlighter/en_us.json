@@ -2,5 +2,14 @@
   "key.drophighlighter.toggle": "Toggle Drop Highlight",
   "key.category.drophighlighter.main": "Drop Highlighter",
   "message.drophighlighter.enabled": "Drop Highlighter: ON",
-  "message.drophighlighter.disabled": "Drop Highlighter: OFF"
+  "message.drophighlighter.disabled": "Drop Highlighter: OFF",
+  "screen.drophighlighter.config.title": "Drop Highlighter Settings",
+  "screen.drophighlighter.config.highlight.on": "Drop Highlighting: ON",
+  "screen.drophighlighter.config.highlight.off": "Drop Highlighting: OFF",
+  "screen.drophighlighter.config.blocklist.title": "Blocked Items",
+  "screen.drophighlighter.config.blocklist.subtitle": "These items will not be highlighted when dropped",
+  "screen.drophighlighter.config.blocklist.search": "Item ID",
+  "screen.drophighlighter.config.blocklist.search.hint": "e.g. minecraft:dirt",
+  "screen.drophighlighter.config.blocklist.add": "Add",
+  "screen.drophighlighter.config.blocklist.remove": "X"
 }
