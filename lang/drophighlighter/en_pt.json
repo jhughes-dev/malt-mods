@@ -1,6 +1,15 @@
 {
-  "key.drophighlighter.toggle": "Toggle th' Drop Highlight, Savvy?",
-  "key.category.drophighlighter.main": "Drop Highlighter",
-  "message.drophighlighter.enabled": "Drop Highlighter: AYE!",
-  "message.drophighlighter.disabled": "Drop Highlighter: NAY!"
+  "key.drophighlighter.toggle": "Toggle Booty Glow",
+  "key.category.drophighlighter.main": "Booty Highlighter",
+  "message.drophighlighter.enabled": "Booty Highlighter: AYE",
+  "message.drophighlighter.disabled": "Booty Highlighter: NAY",
+  "screen.drophighlighter.config.title": "Booty Highlighter Settin's",
+  "screen.drophighlighter.config.highlight.on": "Booty Glowin': AYE",
+  "screen.drophighlighter.config.highlight.off": "Booty Glowin': NAY",
+  "screen.drophighlighter.config.blocklist.title": "Blacklisted Loot",
+  "screen.drophighlighter.config.blocklist.subtitle": "This here loot won't be glowin' when dropped",
+  "screen.drophighlighter.config.blocklist.search": "Loot ID",
+  "screen.drophighlighter.config.blocklist.search.hint": "e.g. minecraft:filled_map",
+  "screen.drophighlighter.config.blocklist.add": "Hoist",
+  "screen.drophighlighter.config.blocklist.remove": "X"
 }
