@@ -63,7 +63,9 @@
   "buildbetter.onboarding.hold": "Hold to configure",
   "buildbetter.onboarding.done": "Got it!",
 
-  "buildbetter.hud.build_plane_line": "[Ctrl+Alt+Scroll] %s = %s",
+  "buildbetter.hud.build_plane_line": "Plane: %s = %s",
+  "buildbetter.hud.build_plane_adjust": "[Ctrl+Alt+Scroll] Adjust level",
+  "buildbetter.hud.build_plane_toggle": "[%s] Disable Build Plane",
   "buildbetter.hud.random_line": "[R] Random (%s blocks)",
   "buildbetter.hud.build_plane_disabled": "Build Plane disabled",
   "buildbetter.hud.build_plane_status": "Build Plane: %s = %s",
