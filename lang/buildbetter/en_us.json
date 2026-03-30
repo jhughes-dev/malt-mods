@@ -8,6 +8,7 @@
   "buildbetter.config.title": "Build Better Settings",
   "buildbetter.config.placement_mode": "Placement Mode",
   "buildbetter.config.show_hud": "Show HUD",
+  "buildbetter.config.show_keybindings": "Show Keybindings",
 
   "buildbetter.mode.vanilla": "Vanilla",
   "buildbetter.mode.preview": "Preview",
