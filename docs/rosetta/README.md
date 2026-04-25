@@ -2,7 +2,7 @@
 
 Rosetta is a client-side library mod for Minecraft (Fabric & NeoForge) that gives mod authors a unified system for first-launch tutorials, hint pop-ups, and changelog notes. Other mods declare their content; Rosetta handles registration, display, persistence, replay, and combat-aware suppression.
 
-## Why should you use Rosetta over building your own?
+## Why should you use Rosetta over building your own onboarding solution?
 
 I had two mods that both needed onboarding, and they both popped up at the same time. One rendered partially over the other. Rosetta manages all the card displays so that only one shows up at a time. It also provides you with a lot of convenience for building common patterns, while still allowing you to implement whatever you need with custom renderer.
 
