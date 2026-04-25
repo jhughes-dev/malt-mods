@@ -47,12 +47,12 @@ These patterns coexist. Most mods use the new-ID pattern for changelogs and the 
 
 Acknowledged cards are persisted across game sessions in the player's Minecraft install. State is per-install - there is no per-world, per-server, or cloud sync.
 
-The persistence file lives in the standard Minecraft config / data directory; the exact path is an implementation detail and may change.
+The persistence file lives in the standard Minecraft config / data directory; the exact path is an implementation detail and may change. Use Rosetta's APIs to get at the data instead of directly reading the config.
 
 API for managing persistence (see [API Reference](api-reference.md)):
 
 - `Rosetta.isSeen(id)` - has this player acknowledged this card-version?
-- `Rosetta.markSeen(id)` - manually mark a card as already-acknowledged. Useful when migrating from a pre-Rosetta onboarding system: detect your old "seen" flag at startup and call `markSeen` to suppress the card for existing users.
+- `Rosetta.markSeen(id)` - manually mark a card as already-acknowledged. Useful when migrating to Rosetta from an existing onboarding system: detect your old "seen" flag at startup and call `markSeen` to suppress the card for existing users.
 - `Rosetta.forget(id)` / `Rosetta.forgetAll()` - re-show one card or all cards. Mostly useful for testing.
 
 ## Suppression rules
