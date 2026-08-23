@@ -1,0 +1,19 @@
+{
+  "block.woodpaneling.panel": "%s Panel",
+  "block.woodpaneling.oak_panel": "Oak Panel",
+  "block.woodpaneling.spruce_panel": "Spruce Panel",
+  "block.woodpaneling.birch_panel": "Birch Panel",
+  "block.woodpaneling.jungle_panel": "Jungle Panel",
+  "block.woodpaneling.acacia_panel": "Acacia Panel",
+  "block.woodpaneling.dark_oak_panel": "Dark Oak Panel",
+  "block.woodpaneling.mangrove_panel": "Mangrove Panel",
+  "block.woodpaneling.cherry_panel": "Cherry Panel",
+  "block.woodpaneling.pale_oak_panel": "Pale Oak Panel",
+  "block.woodpaneling.crimson_panel": "Crimson Panel",
+  "block.woodpaneling.warped_panel": "Warped Panel",
+  "block.woodpaneling.bamboo_panel": "Bamboo Panel",
+  "screen.woodpaneling.onboarding.title": "Wood Paneling",
+  "screen.woodpaneling.onboarding.strip": "Stripping dropped some wood panels! Panels attach to any solid surface — where you click on a face sets the grain direction. Craft 4 panels around a stripped log to restore the log, or 6 around stripped wood to restore wood.",
+  "screen.woodpaneling.onboarding.notification": "You collected wood panels from stripping!",
+  "screen.woodpaneling.onboarding.show": "Show me"
+}
