@@ -1,0 +1,20 @@
+{
+  "block.advancedlogistics.copper_pipe": "Copper Pipe",
+  "block.advancedlogistics.exposed_copper_pipe": "Exposed Copper Pipe",
+  "block.advancedlogistics.weathered_copper_pipe": "Weathered Copper Pipe",
+  "block.advancedlogistics.oxidized_copper_pipe": "Oxidized Copper Pipe",
+  "block.advancedlogistics.waxed_copper_pipe": "Waxed Copper Pipe",
+  "block.advancedlogistics.waxed_exposed_copper_pipe": "Waxed Exposed Copper Pipe",
+  "block.advancedlogistics.waxed_weathered_copper_pipe": "Waxed Weathered Copper Pipe",
+  "block.advancedlogistics.waxed_oxidized_copper_pipe": "Waxed Oxidized Copper Pipe",
+  "block.advancedlogistics.copper_tee": "Copper Tee",
+  "block.advancedlogistics.exposed_copper_tee": "Exposed Copper Tee",
+  "block.advancedlogistics.weathered_copper_tee": "Weathered Copper Tee",
+  "block.advancedlogistics.oxidized_copper_tee": "Oxidized Copper Tee",
+  "block.advancedlogistics.waxed_copper_tee": "Waxed Copper Tee",
+  "block.advancedlogistics.waxed_exposed_copper_tee": "Waxed Exposed Copper Tee",
+  "block.advancedlogistics.waxed_weathered_copper_tee": "Waxed Weathered Copper Tee",
+  "block.advancedlogistics.waxed_oxidized_copper_tee": "Waxed Oxidized Copper Tee",
+  "screen.advancedlogistics.onboarding.title": "Advanced Logistics",
+  "screen.advancedlogistics.onboarding.welcome": "Copper Pipes move items one per tick: they pull from the block at their back and push out the front, and can be chained, but never upward: vertical pipes always point down. Like a hopper, a pipe points into the block you click; centre of a face for straight, near an edge to bend. They weather like copper and can be waxed with honeycomb."
+}
