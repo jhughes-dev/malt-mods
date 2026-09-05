@@ -15,6 +15,14 @@
   "block.advancedlogistics.waxed_exposed_copper_tee": "Waxed Exposed Copper Tee",
   "block.advancedlogistics.waxed_weathered_copper_tee": "Waxed Weathered Copper Tee",
   "block.advancedlogistics.waxed_oxidized_copper_tee": "Waxed Oxidized Copper Tee",
+  "block.advancedlogistics.item_sorter": "Item Sorter",
+  "block.advancedlogistics.incinerator": "Incinerator",
+  "item.advancedlogistics.incinerator_minecart": "Minecart with Incinerator",
+  "entity.advancedlogistics.incinerator_minecart": "Minecart with Incinerator",
+  "gui.advancedlogistics.item_sorter.match_id": "Match: ID",
+  "gui.advancedlogistics.item_sorter.match_name": "Match: Name",
+  "gui.advancedlogistics.item_sorter.drop_matches": "Drop: Matches",
+  "gui.advancedlogistics.item_sorter.drop_others": "Drop: Others",
   "screen.advancedlogistics.onboarding.title": "Advanced Logistics",
   "screen.advancedlogistics.onboarding.welcome": "Copper Pipes move items one per tick: they pull from the block at their back and push out the front, and can be chained, but never upward: vertical pipes always point down. Like a hopper, a pipe points into the block you click; centre of a face for straight, near an edge to bend. They weather like copper and can be waxed with honeycomb."
 }
