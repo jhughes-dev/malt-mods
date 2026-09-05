@@ -20,6 +20,7 @@
   "item.advancedlogistics.incinerator_minecart": "Minecart with Incinerator",
   "entity.advancedlogistics.incinerator_minecart": "Minecart with Incinerator",
   "block.advancedlogistics.redstone_rod": "Redstone Rod",
+  "block.advancedlogistics.relief_valve": "Relief Valve",
   "gui.advancedlogistics.item_sorter.match_id": "Match: ID",
   "gui.advancedlogistics.item_sorter.match_name": "Match: Name",
   "gui.advancedlogistics.item_sorter.drop_matches": "Drop: Matches",
